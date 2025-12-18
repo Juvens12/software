@@ -6,6 +6,7 @@ const Farm=(props)=>{
             <h1>Name:{props.animal}</h1>
              <h1>type:{props.type}</h1> 
                  <h1>crops:{props.crops}</h1>
+                 hh
                  
         </div>
     )
