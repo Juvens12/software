@@ -1,0 +1,19 @@
+.App{
+font-family:italic;
+background-color:rgba(220, 224, 218, 0.706);
+height:120;
+color:yellow(255, 0, 38);
+font: fallback;padding: 100px;
+font-display: 567px;
+}
+nav{
+    background-color:blue;
+    margin: auto;
+    padding: 1rem 2rem;
+}
+nav ul{
+    display: flex;
+    gap: 2rem;
+    list-style-type:none;
+    padding: 32px;
+}
